@@ -7,7 +7,23 @@ int main()
   printf("Enter a positive integer: ");
   scanf("%d",&n);
   printf("Factors of %d are: ", n);
-  for(i=1;i<=n;++i)
+  for(i=1;i<=n;++i)wfde
+  fdf
+  fd
+  f
+  df
+  d
+  ddd
+  d
+  dddd
+  d
+  f
+  a
+  e
+  r
+  f
+  s
+  d
   {
       if(n%i==0)
          printf("%d ",i);
