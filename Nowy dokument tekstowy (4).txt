@@ -5,7 +5,18 @@
 main()
 {
         struct instytuty
-        {
+        {dasda\
+        da
+        da
+        da
+        ad
+        da
+        a
+        da
+        f
+        e\
+        23
+        e
                 char nazwa[30];
                 char adres[50];
                 long int numer_telefonu;
@@ -17,7 +28,7 @@ main()
         strcpy(instytut2.adres,"50-300 Krakow, ul. Krakowska 1");
         instytut2.numer_telefonu=652398810;
         strcpy(instytut3.nazwa,"pedagogiczno-jezykowy");
-        strcpy(instytut3.adres,"32-456 Poznañ, ul. Warszawska 137");
+        strcpy(instytut3.adres,"32-456 PoznaÃ±, ul. Warszawska 137");
         instytut3.numer_telefonu=452398820;
         strcpy(instytut4.nazwa,"politechniczny");
         strcpy(instytut4.adres,"15-234 Wroclaw, ul. Piekna 137");
