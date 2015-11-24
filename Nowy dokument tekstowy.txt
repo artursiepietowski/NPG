@@ -8,8 +8,24 @@ int main()
    FILE *fptr;
    if ((fptr=fopen("program.txt","r"))==NULL){
        printf("Error! opening file");
-       exit(1);         /* Program exits if file pointer returns NULL. */
-   }
+       exit(1);         /* Program exits if file pointer returns NULL. */a
+       
+       fafaaf
+       af
+       a
+       fa
+       f
+       aghte
+       432r
+       23gt
+       rddqwwwq
+   }affaaf
+   fa
+   fa
+   fa
+   fa
+   fa
+   fa
    fscanf(fptr,"%[^\n]",c);
    printf("Data from file:\n%s",c);
    fclose(fptr);
