@@ -10,7 +10,7 @@ main()
                 scanf("%d",&n);
         }
         while(n<1||n>20);
-        for(i=0;i<n;i++)
+        for(i=0;i<n;i++)gfhjkfhk
         {
                 printf(" Podaj a[%d] = ",i);
                 scanf("%d",&a[i]);
