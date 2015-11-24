@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main (  )
+{
+     int liczba_strakow, groszkow_w_straku, groszkow_razem;
+
+     cout << "Po wpisaniu ka¿dej liczby naciœnij [Enter] . \n";
+     cout << "Podaj liczbê str¹ków: \n";
+     cin > > liczba_strakow;
+     cout << "Podaj liczbê groszków w str¹ku: \n";
+     cin > > groszkow_w_straku;
+
+     groszkow_razem = liczba_strakow * groszkow_w_straku;
+
+     cout << "Jeœli masz ";
+     cout <<  liczba_strakow
+     cout << " str¹ków groszku\n";
+     cout << "i ";
+     cout << groszkow_w_straku;
+     cout << " groszków w ka¿dym str¹ku, to\n";
+     cout << " we wszystkich str¹kach masz ";
+     cout << " groszkow_razem;
+     cout << " groszków. \n";
+
+     return 0;
+
+}
